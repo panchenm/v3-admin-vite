@@ -22,3 +22,10 @@ yarn.lock
 .omc
 .agents/skills/*
 !.agents/skills/v3-*/
+pnpm-workspace.yaml
+.cursor/mcp.json
+.vscode/mcp.json
+types/auto/auto-imports.d.ts
+types/auto/components.d.ts
+types/auto/svg-component-global.d.ts
+types/auto/svg-component.d.ts
